@@ -10,7 +10,9 @@ This repository is for vision language models survey
 # Video based Vision Language Models
 1. VideoLLaMA 2: Advancing Spatial-Temporal Modeling and Audio Understanding in Video-LLMs
    [!Link][https://arxiv.org/abs/2406.07476]
-3. dd 
+2. [2024 ACL] Video-ChatGPT: Towards Detailed Video Understanding via Large Vision and Language Models
+3. [2024 EMNLP]Video-LLaVA: Learning United Visual Representation by Alignment Before Projection
+4. [2024 ECCV] Sharegpt4video: Improving video understanding and generation with better captions
 
 # Vision Language Models in image to text extraction
 1. [2025 May] Argus: Vision-Centric Reasoning with Grounded Chain-of-Thought
