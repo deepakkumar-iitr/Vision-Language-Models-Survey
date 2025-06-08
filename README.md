@@ -7,6 +7,11 @@ This repository is for vision language models survey
    [Link][https://arxiv.org/abs/2504.17224]
 2. vvv
 
+# Video based Vision Language Models
+1. VideoLLaMA 2: Advancing Spatial-Temporal Modeling and Audio Understanding in Video-LLMs
+   [!Link][https://arxiv.org/abs/2406.07476]
+3. dd 
+
 # Vision Language Models in image to text extraction
 1. [CVPR2024] Monkey: Image Resolution and Text Label Are Important Things for Large Multi-modal Models
    [Github Link][https://github.com/Yuliang-Liu/Monkey]
