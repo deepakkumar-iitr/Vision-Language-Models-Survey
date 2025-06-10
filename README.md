@@ -44,5 +44,8 @@ This repository is for vision language models survey
 25. [2017] NewsQA: A machine comprehension dataset
 
 # Miscellaneous
-1. [2024 ICLR] LLAMA-ADAPTER: Efficient Fine-Tuning of Large Language Models with Zero-Initialized Attention
-2. [2023] LLaMA-Adapter V2: Parameter-Efficient Visual Instruction Model
+1. [2025 June] Hidden in plain sight: VLMs overlook their visual representations
+
+   Link: https://www.notion.so/VLMs-overlook-their-visual-representations-20ec205b93e080c5b709d86478e14d93
+3. [2024 ICLR] LLAMA-ADAPTER: Efficient Fine-Tuning of Large Language Models with Zero-Initialized Attention
+4. [2023] LLaMA-Adapter V2: Parameter-Efficient Visual Instruction Model
