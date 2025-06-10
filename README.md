@@ -8,7 +8,7 @@ This repository is for vision language models survey
 2. vvv
 
 # Video based Vision Language Models
-1. VideoLLaMA 2: Advancing Spatial-Temporal Modeling and Audio Understanding in Video-LLMs
+1. VideoLLaMA 2: Advancing Spatial-Temporal Modeling and Audio Understanding in Video-LLMs <br>
    [!Link][https://arxiv.org/abs/2406.07476]
 2. [2024 ACL] Video-ChatGPT: Towards Detailed Video Understanding via Large Vision and Language Models
 3. [2024 EMNLP]Video-LLaVA: Learning United Visual Representation by Alignment Before Projection
@@ -23,7 +23,7 @@ This repository is for vision language models survey
 5. [2025] Mini-Monkey: MultiScale adaptive cropping for multimodal large language models
 6. [2025] EgoTextVQA: Towards Egocentric scene text aware video question answering
 7. [2025] OCEAN-OCR: Towards general OCR application via a vision language model
-8. [CVPR2024] Monkey: Image Resolution and Text Label Are Important Things for Large Multi-modal Models
+8. [CVPR2024] Monkey: Image Resolution and Text Label Are Important Things for Large Multi-modal Models <br>
    [Github Link][https://github.com/Yuliang-Liu/Monkey]
 9. [2024] Llava-next: A strong zero-shot video understanding model
 10. [2024] Qwen2-vl: Enhancing vision-language model's perception of the world at any resolution
@@ -44,8 +44,7 @@ This repository is for vision language models survey
 25. [2017] NewsQA: A machine comprehension dataset
 
 # Miscellaneous
-1. [2025 June] Hidden in plain sight: VLMs overlook their visual representations
-
+1. [2025 June] Hidden in plain sight: VLMs overlook their visual representations <br>
    Link: https://www.notion.so/VLMs-overlook-their-visual-representations-20ec205b93e080c5b709d86478e14d93
 3. [2024 ICLR] LLAMA-ADAPTER: Efficient Fine-Tuning of Large Language Models with Zero-Initialized Attention
 4. [2023] LLaMA-Adapter V2: Parameter-Efficient Visual Instruction Model
