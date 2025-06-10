@@ -4,12 +4,12 @@ This repository is for vision language models survey
 
 # Vision Language Models in Affect/Emotion Recognition
 1. Visual and textual prompts for enhancing emotion recognition in video
-   [Link][https://arxiv.org/abs/2504.17224]
+   Paper Link: https://arxiv.org/abs/2504.17224
 2. vvv
 
 # Video based Vision Language Models
 1. VideoLLaMA 2: Advancing Spatial-Temporal Modeling and Audio Understanding in Video-LLMs <br>
-   [!Link][https://arxiv.org/abs/2406.07476]
+   Paper Link: https://arxiv.org/abs/2406.07476
 2. [2024 ACL] Video-ChatGPT: Towards Detailed Video Understanding via Large Vision and Language Models
 3. [2024 EMNLP]Video-LLaVA: Learning United Visual Representation by Alignment Before Projection
 4. [2024 ECCV] Sharegpt4video: Improving video understanding and generation with better captions
